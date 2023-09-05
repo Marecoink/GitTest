@@ -1,1 +1,3 @@
 # GitTest
+
+sprawdzanie comitów
