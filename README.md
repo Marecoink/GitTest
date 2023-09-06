@@ -2,3 +2,4 @@
 
 sprawdzanie comitów
 cd
+\n cd
