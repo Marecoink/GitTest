@@ -1,0 +1,4 @@
+Squash merge 1
+Squash merge 2
+Squash merge 3
+Squash merge 4
